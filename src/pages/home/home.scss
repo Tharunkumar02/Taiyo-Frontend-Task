@@ -1,0 +1,31 @@
+.home-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+  }
+  
+  .welcomeNote {
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .welcomeNote h3 {
+    font-size: 40px;
+  }
+  
+  .welcomeNote p {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-form {
+    margin-top: 20px;
+  }
+  

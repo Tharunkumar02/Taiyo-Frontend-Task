@@ -1,0 +1,24 @@
+.mapContainer {
+  height: 80vh;
+  width: 100%;
+}
+
+.popupContent {
+  h2 {
+    font-size: 1.2rem;
+    margin: 0;
+    padding-bottom: 5px;
+    color: white;
+    border-bottom: 1px solid #ccc;
+  }
+
+  p {
+    margin: 5px 0;
+  }
+}
+
+.customMarkerIcon {
+  icon-size: 25px;
+  icon-anchor: 12px 41px;
+  popup-anchor: 1px -34px;
+}
